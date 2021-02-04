@@ -6,11 +6,11 @@
 /*   By: scha <scha@student.42seoul.kr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/31 23:09:22 by scha              #+#    #+#             */
-/*   Updated: 2021/02/01 18:26:47 by scha             ###   ########.fr       */
+/*   Updated: 2021/02/04 19:22:23 by scha             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 char	*ft_strdup(const char *s1)
 {

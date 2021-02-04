@@ -6,11 +6,11 @@
 /*   By: scha <scha@student.42seoul.kr>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/31 23:08:34 by scha              #+#    #+#             */
-/*   Updated: 2021/02/01 17:50:56 by scha             ###   ########.fr       */
+/*   Updated: 2021/02/04 19:21:42 by scha             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static void	sfree(char *s)
 {
